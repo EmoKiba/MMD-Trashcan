@@ -23,8 +23,6 @@ public class TrashCan {
     public void preInit(FMLPreInitializationEvent event){
         INSTANCE = this;
         PROXY.preInit(event);
-
-
     }
     @Mod.EventHandler
     public void Init(FMLInitializationEvent event){

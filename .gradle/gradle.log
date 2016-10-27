@@ -13,8 +13,6 @@ This mapping 'snapshot_20160518' was designed for MC 1.9.4! Use at your own peri
 :deobfProvidedDummyTask
 :getVersionJson
 :extractUserdev
-Download http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.10.2-12.18.2.2114/forge-1.10.2-12.18.2.2114.pom
-Download http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.10.2-12.18.2.2114/forge-1.10.2-12.18.2.2114-userdev.jar
 :extractDependencyATs SKIPPED
 :extractMcpData SKIPPED
 :extractMcpMappings SKIPPED
@@ -34,19 +32,16 @@ Applying Exceptor...
 :extractNatives SKIPPED
 :getAssetIndex UP-TO-DATE
 :getAssets
-Current status: 156/1112   14%
-Current status: 349/1112   31%
-Current status: 510/1112   45%
-Current status: 638/1112   57%
-Current status: 808/1112   72%
-Current status: 1031/1112   92%
+Current status: 818/1112   73%
 :makeStart
 :setupDecompWorkspace
-:ideaModule
-:ideaProject
-:ideaWorkspace
-:idea
+:eclipseClasspath
+:eclipseJdt
+:eclipseProject
+:makeEclipseCleanRunClient
+:makeEclipseCleanRunServer
+:eclipse
 
 BUILD SUCCESSFUL
 
-Total time: 3 mins 59.809 secs
+Total time: 1 mins 55.235 secs

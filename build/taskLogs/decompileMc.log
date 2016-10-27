@@ -1,10 +1,10 @@
-INFO:  Adding File to context from classpath: D:\MOD DEVELOPMENT\TrashCan\gradle\wrapper\gradle-wrapper.jar
-INFO:  Adding File to context from classpath: C:\Program Files\Java\jdk1.8.0_101\jre\lib\resources.jar
-INFO:  Adding File to context from classpath: C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
-INFO:  Adding File to context from classpath: C:\Program Files\Java\jdk1.8.0_101\jre\lib\jsse.jar
-INFO:  Adding File to context from classpath: C:\Program Files\Java\jdk1.8.0_101\jre\lib\jce.jar
-INFO:  Adding File to context from classpath: C:\Program Files\Java\jdk1.8.0_101\jre\lib\charsets.jar
-INFO:  Adding File to context from classpath: C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfr.jar
+INFO:  Adding File to context from classpath: C:\mc_modding\MMD-Trashcan\gradle\wrapper\gradle-wrapper.jar
+INFO:  Adding File to context from classpath: C:\Program Files\Java\jdk1.8.0_102\jre\lib\resources.jar
+INFO:  Adding File to context from classpath: C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+INFO:  Adding File to context from classpath: C:\Program Files\Java\jdk1.8.0_102\jre\lib\jsse.jar
+INFO:  Adding File to context from classpath: C:\Program Files\Java\jdk1.8.0_102\jre\lib\jce.jar
+INFO:  Adding File to context from classpath: C:\Program Files\Java\jdk1.8.0_102\jre\lib\charsets.jar
+INFO:  Adding File to context from classpath: C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfr.jar
 WARN:  Inconsistent inner class entries for net/minecraft/block/BlockSilverfish$EnumType!
 WARN:  Inconsistent inner class entries for net/minecraft/block/BlockSilverfish$EnumType!
 WARN:  Inconsistent inner class entries for net/minecraft/block/BlockSilverfish$EnumType!

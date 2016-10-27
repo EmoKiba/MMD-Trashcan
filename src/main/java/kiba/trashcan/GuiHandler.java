@@ -25,8 +25,10 @@ public class GuiHandler implements IGuiHandler {
         return null;
     }
     public static int nextID(){
-
        return GUI_ID++;
-
     }
+    
+    public static void launchGui(int ID, EntityPlayer playerIn, World worldIn, int x, int y, int z) {
+		playerIn.openGui(TrashCan.INSTANCE, ID, worldIn, x, y, z);
+	}
 }
